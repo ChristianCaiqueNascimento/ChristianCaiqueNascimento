@@ -1,6 +1,5 @@
-### Hi there 👋
-### Olá! Eu sou o Christian Caique 👊
 
+### Olá! Eu sou o Christian Caique 👊
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-caique-780070106/)
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianCaiqueNascimento&show_icons=true&theme=dracula)
